@@ -74,7 +74,11 @@ export default function TopBanner () {
         >
           <Tab label='Art' />
           <Tab label='Collectibles' />
-          <Tab label='Item Three' />
+          <Tab label='Game Items' />
+          <Tab label='Music' />
+          <Tab label='Domains' />
+          <Tab label='Templates' />
+          <Tab label='Videos' />
         </Tabs>
       </Paper>
       {/* </Grid> */}
